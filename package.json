@@ -1,0 +1,15 @@
+{
+  "name": "decoder",
+  "version": "1.0.0",
+  "description": "AES-CNT CSV block decoder",
+  "main": "index.js",
+  "dependencies": {
+    "args": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "decode_csv": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
